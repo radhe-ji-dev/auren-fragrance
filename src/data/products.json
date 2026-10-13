@@ -1,0 +1,178 @@
+[
+
+  {
+    "id": "ambre-saddle",
+    "name": "Ambre Saddle",
+    "category": "perfume",
+    "image": "/assets/ambersaddle.png",
+    "description": "Rich Mysore sandalwood infused with caramelized bourbon vanilla, cinnamon bark, and golden amber.",
+    "inStock": true,
+    "sizes": [
+      { "ml": 20, "price": 249 },
+      { "ml": 50, "price": 499 }
+    ]
+  },
+  {
+    "id": "mistiq",
+    "name": "Mistiq",
+    "category": "perfume",
+    "image": "/assets/mistiq.png",
+    "description": "Cool aquatic freshness of crisp mint, lavender, and coriander over ocean breeze, settling into soft sandalwood, musk, and light amber.",
+    "inStock": true,
+    "sizes": [
+      { "ml": 20, "price": 199},
+      { "ml": 50, "price": 399 }
+    ]
+  },
+  {
+    "id": "oudwood",
+    "name": "Oudwood",
+    "category": "perfume",
+    "image": "/assets/oudwoody.png",
+    "description": "Smooth, refined oud blended with exotic rosewood, warm cardamom, and sandalwood, finishing in vetiver, tonka bean, and amber.",
+    "inStock": true,
+    "sizes": [
+      { "ml": 20, "price": 249 },
+      { "ml": 50, "price": 499 }
+    ]
+  },
+  {
+    "id": "royal-black",
+    "name": "Royal Black",
+    "category": "perfume",
+    "image": "/assets/royal_black.png",
+    "description": "Bold, dark oriental statement of spiced saffron and black pepper over smoky oud, leather, and rich amber with a velvety musk base.",
+    "inStock": true,
+    "sizes": [
+      { "ml": 20, "price": 249 },
+      { "ml": 50, "price": 499 }
+    ]
+  },
+  {
+    "id": "breez",
+    "name": "Breez",
+    "category": "perfume",
+    "image": "/assets/breez.png",
+    "description": "Juicy fruity-aquatic burst of green apple, bergamot, and lemon with plum and cinnamon, drying down to ambergris, vanilla, musk, and woods.",
+    "inStock": true,
+    "sizes": [
+      { "ml": 20, "price": 225 },
+      { "ml": 50, "price": 449 }
+    ]
+  },
+  {
+    "id": "tocco",
+    "name": "Tocco",
+    "category": "perfume",
+    "image": "/assets/tocco.png",
+    "description": "Opulent blend of sun-cured tobacco leaf and creamy vanilla with warm spices, cacao, tonka bean, and dried fruits.",
+    "inStock": true,
+    "sizes": [
+      { "ml": 20, "price": 199 },
+      { "ml": 50, "price": 399 }
+    ]
+  },
+  {
+    "id": "ruby",
+    "name": "Ruby",
+    "category": "perfume",
+    "image": "/assets/ruby.png",
+    "description": "Radiant floral-fruity sparkle of yuzu and pomegranate with icy accord, blooming peony, magnolia, and lotus, over soft musk, amber, and woods.",
+    "inStock": true,
+    "sizes": [
+      { "ml": 20, "price": 199 },
+      { "ml": 50, "price": 399 }
+    ]
+  },
+  {
+    "id": "shanya",
+    "name": "Shanya",
+    "category": "perfume",
+    "image": "/assets/shanya.png",
+    "description": "Radiant floral-fruity sparkle of yuzu and pomegranate with icy accord, blooming peony, magnolia, and lotus, over soft musk, amber, and woods.",
+    "inStock": true,
+    "sizes": [
+      { "ml": 20, "price": 199 },
+      { "ml": 50, "price": 399 }
+    ]
+  },
+  {
+    "id": "rose vanille",
+    "name": "Rose Vanille",
+    "category": "perfume",
+    "image": "/assets/rose_vennile.png",
+    "description": "Velvety Bulgarian rose wrapped in sweet creamy vanilla, with warm cashmeran, sandalwood, and soft white musk.",
+    "inStock": false,
+    "sizes": [
+      { "ml": 20, "price": 199 },
+      { "ml": 50, "price": 399 }
+    ]
+  },
+  {
+    "id": "victus",
+    "name": "Victus",
+    "category": "perfume",
+    "image": "/assets/victus.png",
+    "description": "Energetic sporty-fresh grapefruit, mandarin, and marine notes with bay leaf, driving into guaiac wood, patchouli, oakmoss, and ambergris.",
+    "inStock": true,
+    "sizes": [
+      { "ml": 20, "price": 225 },
+      { "ml": 50, "price": 449 }
+    ]
+  },
+  {
+    "id": "dominus",
+    "name": "Dominus",
+    "category": "perfume",
+    "image": "/assets/dominus.png",
+    "description": "Confident fruity-smoky signature of pineapple, bergamot, blackcurrant, and apple over birch, musk, oakmoss, ambergris, and vanilla.",
+    "inStock": true,
+    "sizes": [
+      { "ml": 20, "price": 199 },
+      { "ml": 50, "price": 399 }
+    ]
+  },  {
+    "id": "garden-rose",
+    "name": "Garden Rose",
+    "category": "room-freshener",
+    "image": "/assets/garden_rose.png",
+    "description": "Fresh-cut garden rose petals with soft dewy greens and a gentle hint of musk, like a blooming courtyard in the morning.",
+    "inStock": true,
+    "sizes": [
+      { "ml": 200, "price": 199 }
+    ]
+  },
+  {
+    "id": "raat-rani",
+    "name": "Raat Rani",
+    "category": "room-freshener",
+    "image": "/assets/raat_rani.png",
+    "description": "Intoxicating night-blooming jasmine, sweet and heady, that turns every evening into a fragrant garden retreat.",
+    "inStock": true,
+    "sizes": [
+      { "ml": 200, "price": 199 }
+    ]
+  },
+  {
+    "id": "lime",
+    "name": "Lime",
+    "category": "room-freshener",
+    "image": "/assets/lime.png",
+    "description": "Zesty, sparkling lime peel with a crisp citrus twist that instantly wakes up and freshens your space.",
+    "inStock": true,
+    "sizes": [
+      { "ml": 200, "price": 199 }
+    ]
+  },
+  {
+    "id": "lavender",
+    "name": "Lavender",
+    "category": "room-freshener",
+    "image": "/assets/levender.png",
+    "description": "Calming French lavender with soft herbal and woody undertones, made for peaceful evenings and restful sleep.",
+    "inStock": true,
+    "sizes": [
+      { "ml": 200, "price": 199 }
+    ]
+  }
+]

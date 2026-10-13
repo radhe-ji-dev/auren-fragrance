@@ -1,0 +1,7 @@
+{
+  "name": "Auren Fragrance",
+  "description": "Premium luxury perfumes and artisanal room fresheners crafted with refined notes. Fragrance that tells your story.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
