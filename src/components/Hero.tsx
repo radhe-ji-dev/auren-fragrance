@@ -28,7 +28,7 @@ const slides: SlideItem[] = [
       'Handcrafted with rare Cambodian agarwood, velvety Damask rose, and golden amber crystals.',
     ctaText: 'Explore Perfumes',
     image:
-      'https://images.unsplash.com/photo-1615397349754-cfa2066a298e?auto=format&fit=crop&w=1920&q=85',
+      '/assets/perfume_hero.png',
   },
   {
     id: 'room-freshener',
