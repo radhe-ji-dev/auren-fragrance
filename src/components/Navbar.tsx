@@ -58,7 +58,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                 {BRAND_NAME}
               </span>
               <span className="text-[10px] uppercase tracking-[0.25em] text-[#111111]/70 font-sans -mt-0.5">
-                Haute Parfumerie
+                Awaken Senses
               </span>
             </div>
           </button>
