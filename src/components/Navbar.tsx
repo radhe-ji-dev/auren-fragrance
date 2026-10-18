@@ -51,7 +51,6 @@ export const Navbar: React.FC<NavbarProps> = ({
                 }}
               />
               <span className="font-serif font-bold text-lg text-[#111111] leading-none select-none">
-                A
               </span>
             </div>
             <div className="flex flex-col">
