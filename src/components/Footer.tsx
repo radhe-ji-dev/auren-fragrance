@@ -1,6 +1,7 @@
 import React from 'react';
 import { Instagram, MessageCircle } from 'lucide-react';
 import { BRAND_NAME, INSTAGRAM_URL, WHATSAPP_NUMBER } from '../config';
+import logoImg from '/public/assets/logo.png';
 
 interface FooterProps {
   onNavigate: (sectionId: string) => void;
@@ -20,7 +21,15 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
           <div className="md:col-span-2 space-y-4">
             <div className="flex items-center gap-3">
               <div className="w-8 h-8 border border-[#ffd57a] flex items-center justify-center font-serif text-sm font-bold bg-white">
-                A
+                 <img
+                src={logoImg}
+                alt=""
+                className="w-full h-full object-contain"
+                onError={(e) => {
+                  const target = e.currentTarget;
+                  target.style.display = 'none';
+                }}
+              />
               </div>
               <span className="font-serif text-xl tracking-wider uppercase font-semibold text-[#111111]">
                 {BRAND_NAME}
